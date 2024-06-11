@@ -20,7 +20,7 @@ https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv
 - **Apache Spark**: For ETL processes.
 - **Tableau**: For data visualization.
 - **Data Warehousing**: For efficient data storage and retrieval.
-- **Python**: For scripting and data processing.
+- **Python**: For scripting and data processing and data visualization.
 - **Jupyter Notebook**: For exploratory data analysis and prototyping.
 
 - ## Project Architecture
